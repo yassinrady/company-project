@@ -306,3 +306,6 @@ input{
 .icons p a:hover{
     color: green;
 }
+.container3 img{
+    width: 90%;
+}
