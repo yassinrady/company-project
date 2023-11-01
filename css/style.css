@@ -308,7 +308,5 @@ input{
 }
 .container3 img{
     width: 90%;
-}
-.img-c{
-    height: 80px!important;
+    height: auto;
 }
